@@ -14,7 +14,7 @@ Download in Arduino Ide -> Tools -> Library Manager -> RF24 by TMRh20
 
 - **Raspberry Pi and nRF24L01+ connection**
 
-![nRFtoRPi]([![full.png](https://i.postimg.cc/FzTtFZn3/full.png)](https://postimg.cc/9wwgJG2Q))
+[![full.jpg](https://i.postimg.cc/50bgrhqg/full.jpg)](https://postimg.cc/Y4DQGyPL)
 
 - **Arduino Uno and nRF24L01+ connection**
 
