@@ -1,4 +1,3 @@
-
 # Transfer data from Raspberry Pi 4 to Arduino Uno
 
 The project is based on Raspberry Pi 4, Arduino Uno and transcievers nRF24L01+ PA LNA
