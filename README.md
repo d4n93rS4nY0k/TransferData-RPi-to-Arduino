@@ -16,6 +16,9 @@ Download in Arduino Ide -> Tools -> Library Manager -> RF24 by TMRh20
 
 ![nRFtoRPi]([![full.png](https://i.postimg.cc/FzTtFZn3/full.png)](https://postimg.cc/9wwgJG2Q))
 
+- **Arduino Uno and nRF24L01+ connection**
+
+[![arduinoto-NRF.jpg](https://i.postimg.cc/MpG8CLtW/arduinoto-NRF.jpg)](https://postimg.cc/svb8Swt8)
 ## Run main code files on RPi4 and Arduino Uno
 
 Run the example **mainRPi.py** on Raspberry Pi 
