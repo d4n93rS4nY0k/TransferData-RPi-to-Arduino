@@ -13,18 +13,8 @@ Download in Arduino Ide -> Tools -> Library Manager -> RF24 by TMRh20
 ## Hardware Setup
 
 - **Raspberry Pi and nRF24L01+ connection**
-| nRF24L01+             | Raspberry Pi 4                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| GND | 6 ~ GND |
-| VCC | 1 ~ 3.3V |
-| CE | 11 ~ GPIO17 |
-| CSN | 24 ~ GPIO8 ~ SPI_CE0_n |
-| SCK | 23 ~ GPIO11 ~ SPI_CLK |
-| MOSI | 19 ~ GPIO10 ~ SPI_MOSI |
-|MISO|21 ~ GPIO9 ~ SPI_MISO|
 
 ![nRFtoRPi]([![full.png](https://i.postimg.cc/FzTtFZn3/full.png)](https://postimg.cc/9wwgJG2Q))
-
 
 ## Run main code files on RPi4 and Arduino Uno
 
