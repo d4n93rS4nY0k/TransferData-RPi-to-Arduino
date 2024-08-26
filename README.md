@@ -23,7 +23,7 @@ Download in Arduino Ide -> Tools -> Library Manager -> RF24 by TMRh20
 | MOSI | 19 ~ GPIO10 ~ SPI_MOSI |
 |MISO|21 ~ GPIO9 ~ SPI_MISO|
 
-![nRFtoRPi](https://postimg.cc/9wwgJG2Q)
+![nRFtoRPi]([![full.png](https://i.postimg.cc/FzTtFZn3/full.png)](https://postimg.cc/9wwgJG2Q))
 
 
 ## Run main code files on RPi4 and Arduino Uno
